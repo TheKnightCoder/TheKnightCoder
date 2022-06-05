@@ -31,12 +31,14 @@
 [<img align="left" alt="CircleCI" height="46px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />](https://circleci.com/)
 [<img align="left" alt="Jest" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io/)
 [<img align="left" alt="Jira" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
+
 <br />
+<br />
+
 <details>
   <summary>Details:</summary>
   Ethereum, Solidity, Hardhat, AWS, Node.js, Postgres, DynamoDB, Git, CircleCI, Jest, Jira
 </details>
-
 <br />
 <br />
 
