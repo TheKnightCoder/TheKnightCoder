@@ -18,8 +18,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/russellchoudhury#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/russellchoudhury#gh-dark-mode-only)
 
-![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
-
 ### Languages and Tools:
 [<img align="left" alt="Solidity" height="46px" style="padding-right:30px;" src="./img/ethereum.svg" />](https://ethereum.org/en/)
 [<img align="left" alt="Solidity" height="46px" style="padding-right:30px;" src="./img/solidity_black.svg" />](https://docs.soliditylang.org/#gh-light-mode-only)
@@ -65,6 +63,9 @@
   <img align="left" alt="TheKnightCoder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheKnightCoder&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
+
 
 [twitterDM]: https://twitter.com/messages/225835157-225835157?recipient_id=225835157&text=
 [LinkedIn]: https://www.linkedin.com/in/russellchoudhury/
