@@ -5,9 +5,9 @@
 
 ## I'm a Developer, Investor and Life-long Learner!!
 
+- 🔭 Check out my [LinkedIn][LinkedIn] if you're hiring!
 - 🌱 I’m currently learning everything there is to know about Web3
 - 🐻 I’m looking work for an interesting Web3 Company
-- 🔭 Check out my [LinkedIn][LinkedIn] if you're hiring!
 - 🥅 2022 Goals: Become a web3 expert
 - ⚡ Fun fact: I love 📈 macro-economics, ⛰️ hiking and 🎮  gaming (Currently playing Elden Ring)
 
@@ -46,8 +46,16 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKnightCoder&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📕 Projects
+
+---
+
+### 📕 Web3 Projects
+
+[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
+[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
+[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
 - [Product Tracker Smart Contract](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
