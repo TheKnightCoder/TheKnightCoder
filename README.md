@@ -64,6 +64,7 @@
 
 </details>
 
+<br />
 
 ![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
 
