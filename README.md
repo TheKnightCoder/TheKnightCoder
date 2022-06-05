@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything there is to know about Web3
 - 🐻 I’m looking work for an interesting Web3 Company
-- 🔭 Check out my [LinkedIn][LinkedIn]!
+- 🔭 Check out my [LinkedIn][LinkedIn] if you're hiring!
 - 🥅 2022 Goals: Become a web3 expert
 - ⚡ Fun fact: I love 📈 macro-economics, ⛰️ hiking and 🎮  gaming (Currently playing Elden Ring)
 
