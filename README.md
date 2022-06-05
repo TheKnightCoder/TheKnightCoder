@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheKnightCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheKnightCoder&screen_name=TheKnightCoder)
 
+![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
+
 
 ## I'm a Developer, Investor and Life-long Learner!!
 
@@ -46,7 +48,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKnightCoder&hide=HTML,CSS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKnightCoder&hide=HTML,CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -54,10 +56,6 @@
 ### 📕 Web3 Projects
 
 [![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
-[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
-[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
-
-- [Product Tracker Smart Contract](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
 ➡️ [more projects...](https://github.com/TheKnightCoder?tab=repositories)
 
@@ -65,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TheKnightCoder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheKnightCoder&show_icons=true&count_private=true&theme=radical" />
+  <img align="left" alt="TheKnightCoder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheKnightCoder&show_icons=true&count_private=true&theme=radical&hide=issues,contribs" />
 
 </details>
 
