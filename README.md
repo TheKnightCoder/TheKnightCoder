@@ -18,6 +18,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/russellchoudhury#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/russellchoudhury#gh-dark-mode-only)
 
+![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
+
 ### Languages and Tools:
 [<img align="left" alt="Solidity" height="46px" style="padding-right:30px;" src="./img/ethereum.svg" />](https://ethereum.org/en/)
 [<img align="left" alt="Solidity" height="46px" style="padding-right:30px;" src="./img/solidity_black.svg" />](https://docs.soliditylang.org/#gh-light-mode-only)
@@ -42,8 +44,6 @@
   Ethereum, Solidity, Hardhat, AWS, Node.js, Postgres, DynamoDB, Git, CircleCI, Jest, Jira
 </details>
 <br />
-
-![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
 
 ---
 
