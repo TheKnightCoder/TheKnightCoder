@@ -25,12 +25,12 @@
 [<img align="left" alt="Hardhat" height="46px" style="padding-right:30px;" src="./img/hardhat.svg" />](https://hardhat.org/)
 [<img align="left" alt="AWS" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="Node" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en/)
-[<img align="left" alt="Postgres" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org/)    
+[<img align="left" alt="Postgres" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org/)
+[<img align="left" alt="DynamoDB" height="46px" style="padding-right:30px;" src="./img/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
 [<img align="left" alt="Git" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:30px;" />](https://git-scm.com/)
 [<img align="left" alt="CircleCI" height="46px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />](https://circleci.com/)
 [<img align="left" alt="Jest" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io/)
 [<img align="left" alt="Jira" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
-[<img align="left" alt="DynamoDB" height="46px" style="padding-right:30px;" src="./img/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
 
 <br />
 <br />
