@@ -1,8 +1,6 @@
 # Hi there, I'm Russell 👋  - DM me on LinkedIn [@TheKnightCoder][twitterDM] 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheKnightCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheKnightCoder&screen_name=TheKnightCoder)
-
-![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
+![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue) [![Twitter Follow](https://img.shields.io/twitter/follow/TheKnightCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheKnightCoder&screen_name=TheKnightCoder)
 
 
 ## I'm a Developer, Investor and Life-long Learner!!
