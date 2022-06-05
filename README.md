@@ -42,9 +42,9 @@
   Ethereum, Solidity, Hardhat, AWS, Node.js, Postgres, DynamoDB, Git, CircleCI, Jest, Jira
 </details>
 <br />
-<br />
 
 ![](https://komarev.com/ghpvc/?username=TheKnightCoder&color=blue)
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKnightCoder&hide=HTML,CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
