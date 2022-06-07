@@ -49,7 +49,7 @@
 
 
 ---55
-[![Github-Profile-NFT-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=Github-Profile-NFT-Viewer)] (https://github.com/TheKnightCoder/Github-Profile-NFT-Viewer)
+[![Github-Profile-NFT-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=Github-Profile-NFT-Viewer)](https://github.com/TheKnightCoder/Github-Profile-NFT-Viewer)
 
 [![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
