@@ -48,7 +48,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKnightCoder&hide=HTML,CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
+---55
+[![Github-Profile-NFT-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=Github-Profile-NFT-Viewer)] (https://github.com/TheKnightCoder/Github-Profile-NFT-Viewer)
+
+[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
 ### 📕 Web3 Projects
 
