@@ -24,6 +24,7 @@
 [<img align="left" alt="Solidity" height="46px" style="padding-right:30px;" src="./img/solidity_white.svg" />](https://docs.soliditylang.org/#gh-dark-mode-only)
 [<img align="left" alt="Hardhat" height="46px" style="padding-right:30px;" src="./img/hardhat.svg" />](https://hardhat.org/)
 [<img align="left" alt="AWS" height="46px" style="padding-right:30px;" src="./img/aws.svg" />](https://aws.amazon.com/)
+[<img align="left" alt="AWS" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Node" height="46px" style="padding-right:30px;" src="./img/nodejs.svg" />](https://nodejs.org/en/)
 [<img align="left" alt="Postgres" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org/)
 [<img align="left" alt="DynamoDB" height="46px" style="padding-right:30px;" src="./img/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
@@ -39,7 +40,7 @@
 
 <details>
   <summary>Details:</summary>
-  Ethereum, Solidity, Hardhat, AWS, Node.js, Postgres, DynamoDB, CircleCI, Jest, Jira, Git
+  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Jest, Jira, Git
 </details>
 <br />
 
@@ -49,11 +50,10 @@
 
 
 ---
-[![Github-Profile-NFT-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=Github-Profile-NFT-Viewer)](https://github.com/TheKnightCoder/Github-Profile-NFT-Viewer)
-
-[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
 ### 📕 Web3 Projects
+
+[![Github-Profile-NFT-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=Github-Profile-NFT-Viewer)](https://github.com/TheKnightCoder/Github-Profile-NFT-Viewer)
 
 [![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
 
