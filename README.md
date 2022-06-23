@@ -24,12 +24,12 @@
 [<img align="left" alt="Solidity" height="46px" style="padding-right:30px;" src="./img/solidity_white.svg" />](https://docs.soliditylang.org/#gh-dark-mode-only)
 [<img align="left" alt="Hardhat" height="46px" style="padding-right:30px;" src="./img/hardhat.svg" />](https://hardhat.org/)
 [<img align="left" alt="AWS" height="46px" style="padding-right:30px;" src="./img/aws.svg" />](https://aws.amazon.com/)
-[<img align="left" alt="AWS" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="TypeScript" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Node" height="46px" style="padding-right:30px;" src="./img/nodejs.svg" />](https://nodejs.org/en/)
 [<img align="left" alt="Postgres" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org/)
 [<img align="left" alt="DynamoDB" height="46px" style="padding-right:30px;" src="./img/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
 [<img align="left" alt="CircleCI" height="46px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />](https://circleci.com/)
-[<img align="left" alt="Jest" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />](https://jestjs.io/)
+[<img align="left" alt="Vitest" height="46px" style="padding-right:30px;" src="./img/vitest.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="Jira" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Git" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:30px;" />](https://git-scm.com/)
 
@@ -40,7 +40,7 @@
 
 <details>
   <summary>Details:</summary>
-  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Jest, Jira, Git
+  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Vitest, Jira, Git
 </details>
 <br />
 
