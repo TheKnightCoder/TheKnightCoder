@@ -32,15 +32,14 @@
 [<img align="left" alt="Vitest" height="46px" style="padding-right:30px;" src="./img/vitest.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="Jira" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Git" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:30px;" />](https://git-scm.com/)
-
-
+[<img align="left" alt="Git" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right:30px;" />](https://www.docker.com/)
 <br />
 <br />
 <br />
 
 <details>
   <summary>Details:</summary>
-  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Vitest, Jira, Git
+  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Vitest, Jira, Git, Docker
 </details>
 <br />
 
