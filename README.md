@@ -29,6 +29,7 @@
 [<img align="left" alt="Postgres" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org/)
 [<img align="left" alt="DynamoDB" height="46px" style="padding-right:30px;" src="./img/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
 [<img align="left" alt="CircleCI" height="46px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />](https://circleci.com/)
+[<img align="left" alt="Git" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" style="padding-right:30px;padding-top: 25px;" />](https://mochajs.org/)
 [<img align="left" alt="Vitest" height="46px" style="padding-right:30px;" src="./img/vitest.svg" />](https://aws.amazon.com/)
 [<img align="left" alt="Jira" height="46px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />](https://www.atlassian.com/software/jira)
 [<img align="left" alt="Git" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:30px;" />](https://git-scm.com/)
