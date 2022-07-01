@@ -42,7 +42,7 @@
 
 <details>
   <summary>Details:</summary>
-  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Vitest, Jira, Git, Docker
+  Ethereum, Solidity, Hardhat, AWS, TypeScript, Node.js, Postgres, DynamoDB, CircleCI, Mocha, Vitest, Jira, Git, Docker
 </details>
 <br />
 
