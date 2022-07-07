@@ -57,7 +57,7 @@
 
 [![Github-Profile-NFT-Viewer](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=Github-Profile-NFT-Viewer)](https://github.com/TheKnightCoder/Github-Profile-NFT-Viewer)
 
-[![Product Tracker Smart Contract](https://github-readme-stats.vercel.app/api/pin/?username=TheKnightCoder&repo=product-tracker-smart-contract)](https://github.com/TheKnightCoder/product-tracker-smart-contract)
+[![DeenDevelopersSBT](https://github-readme-stats.vercel.app/api/pin/?username=deendevelopers&repo=DeenDevelopersSBT)](https://github.com/deendevelopers/DeenDevelopersSBT)
 
 ➡️ [more projects...](https://github.com/TheKnightCoder?tab=repositories)
 
